@@ -1,3 +1,6 @@
+
+under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+
 # Image Processing with OpenCV
 
 This project demonstrates various image processing techniques using OpenCV in Python, including dimension analysis, filtering, and image augmentation.
